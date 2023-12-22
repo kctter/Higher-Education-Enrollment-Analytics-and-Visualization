@@ -1,0 +1,1636 @@
+County,Year,Pivot Field Values
+Alameda,1994,4976.0
+Alameda,1995,5135.0
+Alameda,1996,5587.0
+Alameda,1997,5639.0
+Alameda,1998,5957.0
+Alameda,1999,6319.0
+Alameda,2000,6676.0
+Alameda,2001,7283.0
+Alameda,2002,7802.0
+Alameda,2003,8005.0
+Alameda,2004,8028.0
+Alameda,2005,8214.0
+Alameda,2006,9078.0
+Alameda,2007,9253.0
+Alameda,2008,9787.0
+Alameda,2009,10217.0
+Alameda,2010,10375.0
+Alameda,2011,11044.0
+Alameda,2012,11780.0
+Alameda,2013,12148.0
+Alameda,2014,12692.0
+Alameda,2015,13201.0
+Alameda,2016,13659.0
+Alameda,2017,13888.0
+Alameda,2018,15876.0
+Alameda,2019,15405.0
+Alameda,2020,15648.0
+Alameda,2021,17088.0
+Alameda,2022,17234.0
+Amador,1994,13.0
+Amador,1995,26.0
+Amador,1996,39.0
+Amador,1997,56.0
+Amador,1998,62.0
+Amador,1999,44.0
+Amador,2000,72.0
+Amador,2001,77.0
+Amador,2002,88.0
+Amador,2003,65.0
+Amador,2004,62.0
+Amador,2005,49.0
+Amador,2006,32.0
+Amador,2007,50.0
+Amador,2008,36.0
+Amador,2009,60.0
+Amador,2010,61.0
+Amador,2011,64.0
+Amador,2012,47.0
+Amador,2013,36.0
+Amador,2014,59.0
+Amador,2015,39.0
+Amador,2016,57.0
+Amador,2017,54.0
+Amador,2018,52.0
+Amador,2019,27.0
+Amador,2020,46.0
+Amador,2021,60.0
+Amador,2022,49.0
+Butte,1994,242.0
+Butte,1995,276.0
+Butte,1996,298.0
+Butte,1997,341.0
+Butte,1998,328.0
+Butte,1999,410.0
+Butte,2000,424.0
+Butte,2001,460.0
+Butte,2002,403.0
+Butte,2003,416.0
+Butte,2004,405.0
+Butte,2005,396.0
+Butte,2006,431.0
+Butte,2007,449.0
+Butte,2008,432.0
+Butte,2009,445.0
+Butte,2010,399.0
+Butte,2011,466.0
+Butte,2012,466.0
+Butte,2013,579.0
+Butte,2014,545.0
+Butte,2015,551.0
+Butte,2016,497.0
+Butte,2017,523.0
+Butte,2018,562.0
+Butte,2019,573.0
+Butte,2020,437.0
+Butte,2021,494.0
+Butte,2022,539.0
+Calaveras,1994,27.0
+Calaveras,1995,55.0
+Calaveras,1996,46.0
+Calaveras,1997,60.0
+Calaveras,1998,60.0
+Calaveras,1999,76.0
+Calaveras,2000,98.0
+Calaveras,2001,82.0
+Calaveras,2002,86.0
+Calaveras,2003,116.0
+Calaveras,2004,106.0
+Calaveras,2005,74.0
+Calaveras,2006,86.0
+Calaveras,2007,78.0
+Calaveras,2008,68.0
+Calaveras,2009,82.0
+Calaveras,2010,68.0
+Calaveras,2011,92.0
+Calaveras,2012,98.0
+Calaveras,2013,92.0
+Calaveras,2014,100.0
+Calaveras,2015,94.0
+Calaveras,2016,73.0
+Calaveras,2017,74.0
+Calaveras,2018,95.0
+Calaveras,2019,73.0
+Calaveras,2020,58.0
+Calaveras,2021,63.0
+Calaveras,2022,55.0
+Colusa,1994,6.0
+Colusa,1995,0.0
+Colusa,1996,0.0
+Colusa,1997,14.0
+Colusa,1998,7.0
+Colusa,1999,15.0
+Colusa,2000,13.0
+Colusa,2001,18.0
+Colusa,2002,29.0
+Colusa,2003,25.0
+Colusa,2004,14.0
+Colusa,2005,0.0
+Colusa,2006,0.0
+Colusa,2007,16.0
+Colusa,2008,20.0
+Colusa,2009,29.0
+Colusa,2010,18.0
+Colusa,2011,21.0
+Colusa,2012,10.0
+Colusa,2013,35.0
+Colusa,2014,30.0
+Colusa,2015,28.0
+Colusa,2016,41.0
+Colusa,2017,59.0
+Colusa,2018,11.0
+Colusa,2019,27.0
+Colusa,2020,51.0
+Colusa,2021,75.0
+Colusa,2022,68.0
+Contra Costa,1994,4366.0
+Contra Costa,1995,4597.0
+Contra Costa,1996,4868.0
+Contra Costa,1997,4971.0
+Contra Costa,1998,5054.0
+Contra Costa,1999,5349.0
+Contra Costa,2000,5788.0
+Contra Costa,2001,6089.0
+Contra Costa,2002,6488.0
+Contra Costa,2003,6719.0
+Contra Costa,2004,6646.0
+Contra Costa,2005,6546.0
+Contra Costa,2006,7066.0
+Contra Costa,2007,6766.0
+Contra Costa,2008,7317.0
+Contra Costa,2009,7442.0
+Contra Costa,2010,7711.0
+Contra Costa,2011,7698.0
+Contra Costa,2012,8212.0
+Contra Costa,2013,8899.0
+Contra Costa,2014,9100.0
+Contra Costa,2015,9779.0
+Contra Costa,2016,9916.0
+Contra Costa,2017,9986.0
+Contra Costa,2018,11477.0
+Contra Costa,2019,10644.0
+Contra Costa,2020,11230.0
+Contra Costa,2021,12307.0
+Contra Costa,2022,12334.0
+Del Norte,1994,0.0
+Del Norte,1995,6.0
+Del Norte,1996,14.0
+Del Norte,1997,14.0
+Del Norte,1998,30.0
+Del Norte,1999,50.0
+Del Norte,2000,42.0
+Del Norte,2001,46.0
+Del Norte,2002,38.0
+Del Norte,2003,68.0
+Del Norte,2004,52.0
+Del Norte,2005,40.0
+Del Norte,2006,29.0
+Del Norte,2007,30.0
+Del Norte,2008,44.0
+Del Norte,2009,52.0
+Del Norte,2010,34.0
+Del Norte,2011,38.0
+Del Norte,2012,54.0
+Del Norte,2013,24.0
+Del Norte,2014,13.0
+Del Norte,2015,22.0
+Del Norte,2016,34.0
+Del Norte,2017,22.0
+Del Norte,2018,41.0
+Del Norte,2019,18.0
+Del Norte,2020,34.0
+Del Norte,2021,25.0
+Del Norte,2022,9.0
+El Dorado,1994,222.0
+El Dorado,1995,256.0
+El Dorado,1996,366.0
+El Dorado,1997,388.0
+El Dorado,1998,399.0
+El Dorado,1999,488.0
+El Dorado,2000,451.0
+El Dorado,2001,443.0
+El Dorado,2002,582.0
+El Dorado,2003,537.0
+El Dorado,2004,566.0
+El Dorado,2005,568.0
+El Dorado,2006,652.0
+El Dorado,2007,595.0
+El Dorado,2008,670.0
+El Dorado,2009,738.0
+El Dorado,2010,695.0
+El Dorado,2011,632.0
+El Dorado,2012,712.0
+El Dorado,2013,660.0
+El Dorado,2014,721.0
+El Dorado,2015,729.0
+El Dorado,2016,753.0
+El Dorado,2017,786.0
+El Dorado,2018,717.0
+El Dorado,2019,703.0
+El Dorado,2020,760.0
+El Dorado,2021,889.0
+El Dorado,2022,892.0
+Fresno,1994,1350.0
+Fresno,1995,1566.0
+Fresno,1996,1429.0
+Fresno,1997,1570.0
+Fresno,1998,1538.0
+Fresno,1999,1749.0
+Fresno,2000,1816.0
+Fresno,2001,1985.0
+Fresno,2002,2009.0
+Fresno,2003,2146.0
+Fresno,2004,1846.0
+Fresno,2005,2197.0
+Fresno,2006,2278.0
+Fresno,2007,2279.0
+Fresno,2008,2375.0
+Fresno,2009,2632.0
+Fresno,2010,2739.0
+Fresno,2011,3125.0
+Fresno,2012,3353.0
+Fresno,2013,3465.0
+Fresno,2014,3465.0
+Fresno,2015,3532.0
+Fresno,2016,3594.0
+Fresno,2017,3899.0
+Fresno,2018,3928.0
+Fresno,2019,3840.0
+Fresno,2020,4158.0
+Fresno,2021,4424.0
+Fresno,2022,4569.0
+Glenn,1994,10.0
+Glenn,1995,0.0
+Glenn,1996,37.0
+Glenn,1997,17.0
+Glenn,1998,0.0
+Glenn,1999,10.0
+Glenn,2000,12.0
+Glenn,2001,36.0
+Glenn,2002,22.0
+Glenn,2003,14.0
+Glenn,2004,16.0
+Glenn,2005,19.0
+Glenn,2006,32.0
+Glenn,2007,24.0
+Glenn,2008,20.0
+Glenn,2009,37.0
+Glenn,2010,19.0
+Glenn,2011,42.0
+Glenn,2012,38.0
+Glenn,2013,40.0
+Glenn,2014,38.0
+Glenn,2015,59.0
+Glenn,2016,26.0
+Glenn,2017,34.0
+Glenn,2018,54.0
+Glenn,2019,59.0
+Glenn,2020,27.0
+Glenn,2021,58.0
+Glenn,2022,70.0
+Humboldt,1994,173.0
+Humboldt,1995,295.0
+Humboldt,1996,282.0
+Humboldt,1997,272.0
+Humboldt,1998,279.0
+Humboldt,1999,334.0
+Humboldt,2000,338.0
+Humboldt,2001,359.0
+Humboldt,2002,327.0
+Humboldt,2003,350.0
+Humboldt,2004,380.0
+Humboldt,2005,266.0
+Humboldt,2006,288.0
+Humboldt,2007,311.0
+Humboldt,2008,254.0
+Humboldt,2009,254.0
+Humboldt,2010,246.0
+Humboldt,2011,316.0
+Humboldt,2012,269.0
+Humboldt,2013,250.0
+Humboldt,2014,243.0
+Humboldt,2015,343.0
+Humboldt,2016,311.0
+Humboldt,2017,341.0
+Humboldt,2018,271.0
+Humboldt,2019,347.0
+Humboldt,2020,247.0
+Humboldt,2021,350.0
+Humboldt,2022,306.0
+Imperial,1994,222.0
+Imperial,1995,263.0
+Imperial,1996,284.0
+Imperial,1997,221.0
+Imperial,1998,260.0
+Imperial,1999,308.0
+Imperial,2000,329.0
+Imperial,2001,336.0
+Imperial,2002,412.0
+Imperial,2003,477.0
+Imperial,2004,407.0
+Imperial,2005,472.0
+Imperial,2006,412.0
+Imperial,2007,464.0
+Imperial,2008,469.0
+Imperial,2009,482.0
+Imperial,2010,456.0
+Imperial,2011,470.0
+Imperial,2012,553.0
+Imperial,2013,529.0
+Imperial,2014,602.0
+Imperial,2015,593.0
+Imperial,2016,700.0
+Imperial,2017,697.0
+Imperial,2018,854.0
+Imperial,2019,792.0
+Imperial,2020,809.0
+Imperial,2021,934.0
+Imperial,2022,685.0
+Inyo,1994,26.0
+Inyo,1995,22.0
+Inyo,1996,30.0
+Inyo,1997,30.0
+Inyo,1998,21.0
+Inyo,1999,23.0
+Inyo,2000,36.0
+Inyo,2001,38.0
+Inyo,2002,40.0
+Inyo,2003,48.0
+Inyo,2004,54.0
+Inyo,2005,40.0
+Inyo,2006,22.0
+Inyo,2007,46.0
+Inyo,2008,66.0
+Inyo,2009,34.0
+Inyo,2010,28.0
+Inyo,2011,42.0
+Inyo,2012,22.0
+Inyo,2013,21.0
+Inyo,2014,46.0
+Inyo,2015,38.0
+Inyo,2016,39.0
+Inyo,2017,41.0
+Inyo,2018,61.0
+Inyo,2019,55.0
+Inyo,2020,28.0
+Inyo,2021,39.0
+Inyo,2022,48.0
+Kern,1994,645.0
+Kern,1995,809.0
+Kern,1996,917.0
+Kern,1997,904.0
+Kern,1998,1010.0
+Kern,1999,1143.0
+Kern,2000,1147.0
+Kern,2001,1323.0
+Kern,2002,1398.0
+Kern,2003,1361.0
+Kern,2004,1300.0
+Kern,2005,1425.0
+Kern,2006,1443.0
+Kern,2007,1550.0
+Kern,2008,1778.0
+Kern,2009,1837.0
+Kern,2010,2001.0
+Kern,2011,2223.0
+Kern,2012,2431.0
+Kern,2013,2419.0
+Kern,2014,2596.0
+Kern,2015,2376.0
+Kern,2016,2766.0
+Kern,2017,2878.0
+Kern,2018,3052.0
+Kern,2019,3270.0
+Kern,2020,3246.0
+Kern,2021,3501.0
+Kern,2022,3537.0
+Kings,1994,145.0
+Kings,1995,114.0
+Kings,1996,128.0
+Kings,1997,187.0
+Kings,1998,157.0
+Kings,1999,157.0
+Kings,2000,148.0
+Kings,2001,164.0
+Kings,2002,130.0
+Kings,2003,147.0
+Kings,2004,144.0
+Kings,2005,212.0
+Kings,2006,172.0
+Kings,2007,188.0
+Kings,2008,190.0
+Kings,2009,228.0
+Kings,2010,323.0
+Kings,2011,295.0
+Kings,2012,280.0
+Kings,2013,360.0
+Kings,2014,409.0
+Kings,2015,326.0
+Kings,2016,329.0
+Kings,2017,381.0
+Kings,2018,432.0
+Kings,2019,454.0
+Kings,2020,419.0
+Kings,2021,485.0
+Kings,2022,380.0
+Lake,1994,33.0
+Lake,1995,12.0
+Lake,1996,46.0
+Lake,1997,26.0
+Lake,1998,32.0
+Lake,1999,48.0
+Lake,2000,16.0
+Lake,2001,64.0
+Lake,2002,82.0
+Lake,2003,21.0
+Lake,2004,56.0
+Lake,2005,79.0
+Lake,2006,55.0
+Lake,2007,66.0
+Lake,2008,71.0
+Lake,2009,64.0
+Lake,2010,47.0
+Lake,2011,64.0
+Lake,2012,59.0
+Lake,2013,78.0
+Lake,2014,90.0
+Lake,2015,126.0
+Lake,2016,90.0
+Lake,2017,102.0
+Lake,2018,146.0
+Lake,2019,124.0
+Lake,2020,102.0
+Lake,2021,111.0
+Lake,2022,108.0
+Lassen,1994,27.0
+Lassen,1995,28.0
+Lassen,1996,11.0
+Lassen,1997,13.0
+Lassen,1998,29.0
+Lassen,1999,30.0
+Lassen,2000,33.0
+Lassen,2001,16.0
+Lassen,2002,36.0
+Lassen,2003,46.0
+Lassen,2004,25.0
+Lassen,2005,35.0
+Lassen,2006,16.0
+Lassen,2007,16.0
+Lassen,2008,19.0
+Lassen,2009,14.0
+Lassen,2010,16.0
+Lassen,2011,24.0
+Lassen,2012,20.0
+Lassen,2013,0.0
+Lassen,2014,29.0
+Lassen,2015,26.0
+Lassen,2016,16.0
+Lassen,2017,30.0
+Lassen,2018,23.0
+Lassen,2019,5.0
+Lassen,2020,6.0
+Lassen,2021,14.0
+Lassen,2022,22.0
+Los Angeles,1994,28921.0
+Los Angeles,1995,30431.0
+Los Angeles,1996,30645.0
+Los Angeles,1997,29582.0
+Los Angeles,1998,30775.0
+Los Angeles,1999,32356.0
+Los Angeles,2000,35635.0
+Los Angeles,2001,39082.0
+Los Angeles,2002,40778.0
+Los Angeles,2003,42668.0
+Los Angeles,2004,41609.0
+Los Angeles,2005,42447.0
+Los Angeles,2006,45921.0
+Los Angeles,2007,47140.0
+Los Angeles,2008,51298.0
+Los Angeles,2009,53852.0
+Los Angeles,2010,56018.0
+Los Angeles,2011,59845.0
+Los Angeles,2012,63587.0
+Los Angeles,2013,67345.0
+Los Angeles,2014,66943.0
+Los Angeles,2015,69881.0
+Los Angeles,2016,71017.0
+Los Angeles,2017,74775.0
+Los Angeles,2018,78662.0
+Los Angeles,2019,76827.0
+Los Angeles,2020,76239.0
+Los Angeles,2021,82606.0
+Los Angeles,2022,81082.0
+Madera,1994,78.0
+Madera,1995,82.0
+Madera,1996,108.0
+Madera,1997,139.0
+Madera,1998,135.0
+Madera,1999,160.0
+Madera,2000,114.0
+Madera,2001,186.0
+Madera,2002,130.0
+Madera,2003,128.0
+Madera,2004,116.0
+Madera,2005,150.0
+Madera,2006,134.0
+Madera,2007,172.0
+Madera,2008,243.0
+Madera,2009,235.0
+Madera,2010,236.0
+Madera,2011,237.0
+Madera,2012,257.0
+Madera,2013,356.0
+Madera,2014,336.0
+Madera,2015,434.0
+Madera,2016,364.0
+Madera,2017,444.0
+Madera,2018,483.0
+Madera,2019,434.0
+Madera,2020,385.0
+Madera,2021,460.0
+Madera,2022,461.0
+Marin,1994,1156.0
+Marin,1995,1212.0
+Marin,1996,1246.0
+Marin,1997,1334.0
+Marin,1998,1279.0
+Marin,1999,1395.0
+Marin,2000,1361.0
+Marin,2001,1477.0
+Marin,2002,1387.0
+Marin,2003,1581.0
+Marin,2004,1457.0
+Marin,2005,1460.0
+Marin,2006,1574.0
+Marin,2007,1583.0
+Marin,2008,1594.0
+Marin,2009,1679.0
+Marin,2010,1667.0
+Marin,2011,1518.0
+Marin,2012,1671.0
+Marin,2013,1803.0
+Marin,2014,1761.0
+Marin,2015,1709.0
+Marin,2016,1903.0
+Marin,2017,1880.0
+Marin,2018,2154.0
+Marin,2019,2216.0
+Marin,2020,2222.0
+Marin,2021,2703.0
+Marin,2022,2659.0
+Mariposa,1994,32.0
+Mariposa,1995,6.0
+Mariposa,1996,26.0
+Mariposa,1997,34.0
+Mariposa,1998,30.0
+Mariposa,1999,20.0
+Mariposa,2000,36.0
+Mariposa,2001,28.0
+Mariposa,2002,28.0
+Mariposa,2003,18.0
+Mariposa,2004,21.0
+Mariposa,2005,29.0
+Mariposa,2006,20.0
+Mariposa,2007,18.0
+Mariposa,2008,32.0
+Mariposa,2009,52.0
+Mariposa,2010,13.0
+Mariposa,2011,38.0
+Mariposa,2012,28.0
+Mariposa,2013,30.0
+Mariposa,2014,34.0
+Mariposa,2015,32.0
+Mariposa,2016,31.0
+Mariposa,2017,31.0
+Mariposa,2018,29.0
+Mariposa,2019,36.0
+Mariposa,2020,32.0
+Mariposa,2021,33.0
+Mariposa,2022,48.0
+Mendocino,1994,166.0
+Mendocino,1995,186.0
+Mendocino,1996,188.0
+Mendocino,1997,208.0
+Mendocino,1998,244.0
+Mendocino,1999,269.0
+Mendocino,2000,263.0
+Mendocino,2001,294.0
+Mendocino,2002,241.0
+Mendocino,2003,278.0
+Mendocino,2004,226.0
+Mendocino,2005,257.0
+Mendocino,2006,215.0
+Mendocino,2007,266.0
+Mendocino,2008,208.0
+Mendocino,2009,186.0
+Mendocino,2010,202.0
+Mendocino,2011,214.0
+Mendocino,2012,207.0
+Mendocino,2013,202.0
+Mendocino,2014,231.0
+Mendocino,2015,220.0
+Mendocino,2016,264.0
+Mendocino,2017,234.0
+Mendocino,2018,256.0
+Mendocino,2019,238.0
+Mendocino,2020,207.0
+Mendocino,2021,286.0
+Mendocino,2022,280.0
+Merced,1994,342.0
+Merced,1995,302.0
+Merced,1996,434.0
+Merced,1997,394.0
+Merced,1998,429.0
+Merced,1999,424.0
+Merced,2000,445.0
+Merced,2001,509.0
+Merced,2002,477.0
+Merced,2003,422.0
+Merced,2004,436.0
+Merced,2005,631.0
+Merced,2006,629.0
+Merced,2007,917.0
+Merced,2008,912.0
+Merced,2009,903.0
+Merced,2010,994.0
+Merced,2011,978.0
+Merced,2012,1133.0
+Merced,2013,1331.0
+Merced,2014,1204.0
+Merced,2015,1313.0
+Merced,2016,1429.0
+Merced,2017,1630.0
+Merced,2018,1579.0
+Merced,2019,1680.0
+Merced,2020,1601.0
+Merced,2021,1750.0
+Merced,2022,1654.0
+Modoc,1994,0.0
+Modoc,1998,7.0
+Modoc,1999,14.0
+Modoc,2000,0.0
+Modoc,2002,10.0
+Modoc,2003,7.0
+Modoc,2004,5.0
+Modoc,2005,0.0
+Modoc,2006,6.0
+Modoc,2007,0.0
+Modoc,2008,0.0
+Modoc,2010,5.0
+Modoc,2012,0.0
+Modoc,2014,0.0
+Modoc,2016,0.0
+Modoc,2017,5.0
+Modoc,2018,0.0
+Modoc,2020,0.0
+Modoc,2022,0.0
+Mono,1994,17.0
+Mono,1995,28.0
+Mono,1996,36.0
+Mono,1997,28.0
+Mono,1998,26.0
+Mono,1999,26.0
+Mono,2000,26.0
+Mono,2001,30.0
+Mono,2002,15.0
+Mono,2003,14.0
+Mono,2004,24.0
+Mono,2005,36.0
+Mono,2006,14.0
+Mono,2007,20.0
+Mono,2008,36.0
+Mono,2009,22.0
+Mono,2010,36.0
+Mono,2011,32.0
+Mono,2012,14.0
+Mono,2013,20.0
+Mono,2014,22.0
+Mono,2015,31.0
+Mono,2016,26.0
+Mono,2017,23.0
+Mono,2018,18.0
+Mono,2019,26.0
+Mono,2020,19.0
+Mono,2021,42.0
+Mono,2022,34.0
+Monterey,1994,866.0
+Monterey,1995,902.0
+Monterey,1996,948.0
+Monterey,1997,932.0
+Monterey,1998,967.0
+Monterey,1999,1063.0
+Monterey,2000,1168.0
+Monterey,2001,1161.0
+Monterey,2002,1304.0
+Monterey,2003,1395.0
+Monterey,2004,1185.0
+Monterey,2005,1299.0
+Monterey,2006,1253.0
+Monterey,2007,1150.0
+Monterey,2008,1190.0
+Monterey,2009,1208.0
+Monterey,2010,1330.0
+Monterey,2011,1558.0
+Monterey,2012,1716.0
+Monterey,2013,1611.0
+Monterey,2014,1556.0
+Monterey,2015,1787.0
+Monterey,2016,1783.0
+Monterey,2017,2183.0
+Monterey,2018,2332.0
+Monterey,2019,2407.0
+Monterey,2020,2293.0
+Monterey,2021,2370.0
+Monterey,2022,2333.0
+Napa,1994,424.0
+Napa,1995,419.0
+Napa,1996,380.0
+Napa,1997,440.0
+Napa,1998,410.0
+Napa,1999,457.0
+Napa,2000,511.0
+Napa,2001,470.0
+Napa,2002,480.0
+Napa,2003,535.0
+Napa,2004,470.0
+Napa,2005,531.0
+Napa,2006,581.0
+Napa,2007,552.0
+Napa,2008,506.0
+Napa,2009,580.0
+Napa,2010,724.0
+Napa,2011,738.0
+Napa,2012,756.0
+Napa,2013,868.0
+Napa,2014,878.0
+Napa,2015,926.0
+Napa,2016,1020.0
+Napa,2017,929.0
+Napa,2018,1065.0
+Napa,2019,1008.0
+Napa,2020,964.0
+Napa,2021,1060.0
+Napa,2022,1022.0
+Nevada,1994,138.0
+Nevada,1995,166.0
+Nevada,1996,149.0
+Nevada,1997,202.0
+Nevada,1998,183.0
+Nevada,1999,278.0
+Nevada,2000,224.0
+Nevada,2001,298.0
+Nevada,2002,258.0
+Nevada,2003,242.0
+Nevada,2004,264.0
+Nevada,2005,235.0
+Nevada,2006,228.0
+Nevada,2007,223.0
+Nevada,2008,202.0
+Nevada,2009,242.0
+Nevada,2010,278.0
+Nevada,2011,232.0
+Nevada,2012,211.0
+Nevada,2013,264.0
+Nevada,2014,230.0
+Nevada,2015,201.0
+Nevada,2016,184.0
+Nevada,2017,201.0
+Nevada,2018,188.0
+Nevada,2019,183.0
+Nevada,2020,168.0
+Nevada,2021,154.0
+Nevada,2022,201.0
+Orange,1994,11663.0
+Orange,1995,12172.0
+Orange,1996,12506.0
+Orange,1997,11846.0
+Orange,1998,12580.0
+Orange,1999,13228.0
+Orange,2000,14351.0
+Orange,2001,15168.0
+Orange,2002,15827.0
+Orange,2003,16434.0
+Orange,2004,15954.0
+Orange,2005,16997.0
+Orange,2006,18147.0
+Orange,2007,18736.0
+Orange,2008,20419.0
+Orange,2009,20505.0
+Orange,2010,21885.0
+Orange,2011,23308.0
+Orange,2012,23552.0
+Orange,2013,24850.0
+Orange,2014,25270.0
+Orange,2015,25789.0
+Orange,2016,26123.0
+Orange,2017,27737.0
+Orange,2018,29892.0
+Orange,2019,29238.0
+Orange,2020,28879.0
+Orange,2021,32649.0
+Orange,2022,31904.0
+Placer,1994,568.0
+Placer,1995,733.0
+Placer,1996,798.0
+Placer,1997,773.0
+Placer,1998,1043.0
+Placer,1999,1125.0
+Placer,2000,1293.0
+Placer,2001,1418.0
+Placer,2002,1426.0
+Placer,2003,1686.0
+Placer,2004,1589.0
+Placer,2005,1591.0
+Placer,2006,1754.0
+Placer,2007,1860.0
+Placer,2008,1857.0
+Placer,2009,1955.0
+Placer,2010,2053.0
+Placer,2011,2211.0
+Placer,2012,2085.0
+Placer,2013,2415.0
+Placer,2014,2310.0
+Placer,2015,2227.0
+Placer,2016,2333.0
+Placer,2017,2538.0
+Placer,2018,2507.0
+Placer,2019,2542.0
+Placer,2020,2388.0
+Placer,2021,2686.0
+Placer,2022,3037.0
+Plumas,1994,0.0
+Plumas,1995,29.0
+Plumas,1996,34.0
+Plumas,1997,16.0
+Plumas,1998,46.0
+Plumas,1999,26.0
+Plumas,2000,41.0
+Plumas,2001,54.0
+Plumas,2002,21.0
+Plumas,2003,60.0
+Plumas,2004,12.0
+Plumas,2005,46.0
+Plumas,2006,48.0
+Plumas,2007,12.0
+Plumas,2008,36.0
+Plumas,2009,38.0
+Plumas,2010,32.0
+Plumas,2011,16.0
+Plumas,2012,34.0
+Plumas,2013,28.0
+Plumas,2014,5.0
+Plumas,2015,18.0
+Plumas,2016,17.0
+Plumas,2017,26.0
+Plumas,2018,32.0
+Plumas,2019,7.0
+Plumas,2020,12.0
+Plumas,2021,25.0
+Plumas,2022,46.0
+Riverside,1994,3273.0
+Riverside,1995,3502.0
+Riverside,1996,3636.0
+Riverside,1997,3509.0
+Riverside,1998,3772.0
+Riverside,1999,4217.0
+Riverside,2000,4983.0
+Riverside,2001,5442.0
+Riverside,2002,5855.0
+Riverside,2003,6073.0
+Riverside,2004,5791.0
+Riverside,2005,6165.0
+Riverside,2006,6629.0
+Riverside,2007,7069.0
+Riverside,2008,7768.0
+Riverside,2009,8497.0
+Riverside,2010,8772.0
+Riverside,2011,9924.0
+Riverside,2012,11162.0
+Riverside,2013,11823.0
+Riverside,2014,12204.0
+Riverside,2015,13078.0
+Riverside,2016,14360.0
+Riverside,2017,15545.0
+Riverside,2018,16934.0
+Riverside,2019,16460.0
+Riverside,2020,16387.0
+Riverside,2021,17497.0
+Riverside,2022,16603.0
+Sacramento,1994,3055.0
+Sacramento,1995,2967.0
+Sacramento,1996,3303.0
+Sacramento,1997,3300.0
+Sacramento,1998,3720.0
+Sacramento,1999,3750.0
+Sacramento,2000,4177.0
+Sacramento,2001,4224.0
+Sacramento,2002,4621.0
+Sacramento,2003,4699.0
+Sacramento,2004,4707.0
+Sacramento,2005,4767.0
+Sacramento,2006,5323.0
+Sacramento,2007,5755.0
+Sacramento,2008,6062.0
+Sacramento,2009,5887.0
+Sacramento,2010,6316.0
+Sacramento,2011,6858.0
+Sacramento,2012,7351.0
+Sacramento,2013,7673.0
+Sacramento,2014,7705.0
+Sacramento,2015,7717.0
+Sacramento,2016,7787.0
+Sacramento,2017,7815.0
+Sacramento,2018,8256.0
+Sacramento,2019,8165.0
+Sacramento,2020,8376.0
+Sacramento,2021,9375.0
+Sacramento,2022,9211.0
+San Benito,1994,96.0
+San Benito,1995,71.0
+San Benito,1996,70.0
+San Benito,1997,74.0
+San Benito,1998,105.0
+San Benito,1999,78.0
+San Benito,2000,109.0
+San Benito,2001,113.0
+San Benito,2002,124.0
+San Benito,2003,128.0
+San Benito,2004,120.0
+San Benito,2005,146.0
+San Benito,2006,134.0
+San Benito,2007,118.0
+San Benito,2008,146.0
+San Benito,2009,162.0
+San Benito,2010,121.0
+San Benito,2011,184.0
+San Benito,2012,136.0
+San Benito,2013,180.0
+San Benito,2014,129.0
+San Benito,2015,152.0
+San Benito,2016,167.0
+San Benito,2017,164.0
+San Benito,2018,209.0
+San Benito,2019,198.0
+San Benito,2020,167.0
+San Benito,2021,217.0
+San Benito,2022,220.0
+San Bernardino,1994,2573.0
+San Bernardino,1995,2843.0
+San Bernardino,1996,2978.0
+San Bernardino,1997,2857.0
+San Bernardino,1998,3455.0
+San Bernardino,1999,3682.0
+San Bernardino,2000,3992.0
+San Bernardino,2001,4131.0
+San Bernardino,2002,4570.0
+San Bernardino,2003,4605.0
+San Bernardino,2004,4437.0
+San Bernardino,2005,5113.0
+San Bernardino,2006,5416.0
+San Bernardino,2007,5587.0
+San Bernardino,2008,5998.0
+San Bernardino,2009,6440.0
+San Bernardino,2010,6643.0
+San Bernardino,2011,7328.0
+San Bernardino,2012,8298.0
+San Bernardino,2013,9289.0
+San Bernardino,2014,9296.0
+San Bernardino,2015,9815.0
+San Bernardino,2016,10804.0
+San Bernardino,2017,11515.0
+San Bernardino,2018,12107.0
+San Bernardino,2019,11715.0
+San Bernardino,2020,11860.0
+San Bernardino,2021,12390.0
+San Bernardino,2022,12475.0
+San Diego,1994,8371.0
+San Diego,1995,9107.0
+San Diego,1996,9409.0
+San Diego,1997,9227.0
+San Diego,1998,9563.0
+San Diego,1999,10265.0
+San Diego,2000,11419.0
+San Diego,2001,11864.0
+San Diego,2002,13361.0
+San Diego,2003,14263.0
+San Diego,2004,14009.0
+San Diego,2005,12973.0
+San Diego,2006,14252.0
+San Diego,2007,14679.0
+San Diego,2008,16152.0
+San Diego,2009,16733.0
+San Diego,2010,16754.0
+San Diego,2011,17949.0
+San Diego,2012,18913.0
+San Diego,2013,19174.0
+San Diego,2014,20291.0
+San Diego,2015,20413.0
+San Diego,2016,21700.0
+San Diego,2017,22456.0
+San Diego,2018,24560.0
+San Diego,2019,24133.0
+San Diego,2020,23612.0
+San Diego,2021,26584.0
+San Diego,2022,25718.0
+San Francisco,1994,2615.0
+San Francisco,1995,2717.0
+San Francisco,1996,2815.0
+San Francisco,1997,2696.0
+San Francisco,1998,2765.0
+San Francisco,1999,2989.0
+San Francisco,2000,3036.0
+San Francisco,2001,3255.0
+San Francisco,2002,3541.0
+San Francisco,2003,3848.0
+San Francisco,2004,3937.0
+San Francisco,2005,3716.0
+San Francisco,2006,4189.0
+San Francisco,2007,4094.0
+San Francisco,2008,4204.0
+San Francisco,2009,4084.0
+San Francisco,2010,4850.0
+San Francisco,2011,4516.0
+San Francisco,2012,4797.0
+San Francisco,2013,4911.0
+San Francisco,2014,5199.0
+San Francisco,2015,4764.0
+San Francisco,2016,4680.0
+San Francisco,2017,4667.0
+San Francisco,2018,5124.0
+San Francisco,2019,4826.0
+San Francisco,2020,4870.0
+San Francisco,2021,5423.0
+San Francisco,2022,5421.0
+San Joaquin,1994,914.0
+San Joaquin,1995,940.0
+San Joaquin,1996,952.0
+San Joaquin,1997,981.0
+San Joaquin,1998,1052.0
+San Joaquin,1999,1173.0
+San Joaquin,2000,1279.0
+San Joaquin,2001,1324.0
+San Joaquin,2002,1363.0
+San Joaquin,2003,1336.0
+San Joaquin,2004,1238.0
+San Joaquin,2005,1420.0
+San Joaquin,2006,1734.0
+San Joaquin,2007,1618.0
+San Joaquin,2008,1827.0
+San Joaquin,2009,1933.0
+San Joaquin,2010,1924.0
+San Joaquin,2011,2180.0
+San Joaquin,2012,2382.0
+San Joaquin,2013,2512.0
+San Joaquin,2014,2440.0
+San Joaquin,2015,2705.0
+San Joaquin,2016,2951.0
+San Joaquin,2017,2902.0
+San Joaquin,2018,3072.0
+San Joaquin,2019,3157.0
+San Joaquin,2020,3227.0
+San Joaquin,2021,3669.0
+San Joaquin,2022,3731.0
+San Luis Obispo,1994,503.0
+San Luis Obispo,1995,482.0
+San Luis Obispo,1996,556.0
+San Luis Obispo,1997,719.0
+San Luis Obispo,1998,665.0
+San Luis Obispo,1999,814.0
+San Luis Obispo,2000,785.0
+San Luis Obispo,2001,883.0
+San Luis Obispo,2002,876.0
+San Luis Obispo,2003,929.0
+San Luis Obispo,2004,952.0
+San Luis Obispo,2005,947.0
+San Luis Obispo,2006,934.0
+San Luis Obispo,2007,954.0
+San Luis Obispo,2008,1136.0
+San Luis Obispo,2009,1163.0
+San Luis Obispo,2010,1282.0
+San Luis Obispo,2011,1326.0
+San Luis Obispo,2012,1290.0
+San Luis Obispo,2013,1276.0
+San Luis Obispo,2014,1165.0
+San Luis Obispo,2015,1246.0
+San Luis Obispo,2016,1193.0
+San Luis Obispo,2017,1190.0
+San Luis Obispo,2018,1330.0
+San Luis Obispo,2019,1287.0
+San Luis Obispo,2020,1346.0
+San Luis Obispo,2021,1458.0
+San Luis Obispo,2022,1357.0
+San Mateo,1994,2308.0
+San Mateo,1995,2456.0
+San Mateo,1996,2756.0
+San Mateo,1997,2650.0
+San Mateo,1998,2636.0
+San Mateo,1999,2885.0
+San Mateo,2000,3199.0
+San Mateo,2001,3196.0
+San Mateo,2002,3216.0
+San Mateo,2003,3292.0
+San Mateo,2004,3289.0
+San Mateo,2005,3223.0
+San Mateo,2006,3563.0
+San Mateo,2007,3664.0
+San Mateo,2008,3774.0
+San Mateo,2009,3749.0
+San Mateo,2010,3839.0
+San Mateo,2011,3920.0
+San Mateo,2012,4306.0
+San Mateo,2013,4738.0
+San Mateo,2014,4947.0
+San Mateo,2015,5024.0
+San Mateo,2016,5217.0
+San Mateo,2017,5805.0
+San Mateo,2018,6376.0
+San Mateo,2019,6016.0
+San Mateo,2020,5970.0
+San Mateo,2021,6890.0
+San Mateo,2022,6937.0
+Santa Barbara,1994,2322.0
+Santa Barbara,1995,2233.0
+Santa Barbara,1996,2175.0
+Santa Barbara,1997,2164.0
+Santa Barbara,1998,2386.0
+Santa Barbara,1999,2560.0
+Santa Barbara,2000,3198.0
+Santa Barbara,2001,3224.0
+Santa Barbara,2002,3080.0
+Santa Barbara,2003,3425.0
+Santa Barbara,2004,3490.0
+Santa Barbara,2005,3474.0
+Santa Barbara,2006,3534.0
+Santa Barbara,2007,3736.0
+Santa Barbara,2008,3690.0
+Santa Barbara,2009,3870.0
+Santa Barbara,2010,4200.0
+Santa Barbara,2011,4192.0
+Santa Barbara,2012,3915.0
+Santa Barbara,2013,3906.0
+Santa Barbara,2014,3921.0
+Santa Barbara,2015,4019.0
+Santa Barbara,2016,4442.0
+Santa Barbara,2017,4118.0
+Santa Barbara,2018,4510.0
+Santa Barbara,2019,4657.0
+Santa Barbara,2020,4845.0
+Santa Barbara,2021,5042.0
+Santa Barbara,2022,4687.0
+Santa Clara,1994,7460.0
+Santa Clara,1995,7731.0
+Santa Clara,1996,7726.0
+Santa Clara,1997,8159.0
+Santa Clara,1998,7995.0
+Santa Clara,1999,8690.0
+Santa Clara,2000,9666.0
+Santa Clara,2001,10354.0
+Santa Clara,2002,10893.0
+Santa Clara,2003,11793.0
+Santa Clara,2004,11759.0
+Santa Clara,2005,11929.0
+Santa Clara,2006,12600.0
+Santa Clara,2007,12773.0
+Santa Clara,2008,13512.0
+Santa Clara,2009,14163.0
+Santa Clara,2010,14644.0
+Santa Clara,2011,15176.0
+Santa Clara,2012,16341.0
+Santa Clara,2013,16986.0
+Santa Clara,2014,17847.0
+Santa Clara,2015,18491.0
+Santa Clara,2016,18943.0
+Santa Clara,2017,19183.0
+Santa Clara,2018,20907.0
+Santa Clara,2019,20424.0
+Santa Clara,2020,20964.0
+Santa Clara,2021,23351.0
+Santa Clara,2022,21744.0
+Santa Cruz,1994,1242.0
+Santa Cruz,1995,1214.0
+Santa Cruz,1996,1284.0
+Santa Cruz,1997,1304.0
+Santa Cruz,1998,1299.0
+Santa Cruz,1999,1308.0
+Santa Cruz,2000,1528.0
+Santa Cruz,2001,1784.0
+Santa Cruz,2002,2035.0
+Santa Cruz,2003,1979.0
+Santa Cruz,2004,1896.0
+Santa Cruz,2005,1853.0
+Santa Cruz,2006,1695.0
+Santa Cruz,2007,1595.0
+Santa Cruz,2008,1608.0
+Santa Cruz,2009,1750.0
+Santa Cruz,2010,1587.0
+Santa Cruz,2011,1638.0
+Santa Cruz,2012,1687.0
+Santa Cruz,2013,1840.0
+Santa Cruz,2014,1704.0
+Santa Cruz,2015,1796.0
+Santa Cruz,2016,1902.0
+Santa Cruz,2017,1984.0
+Santa Cruz,2018,2210.0
+Santa Cruz,2019,2068.0
+Santa Cruz,2020,1966.0
+Santa Cruz,2021,1965.0
+Santa Cruz,2022,2032.0
+Shasta,1994,249.0
+Shasta,1995,294.0
+Shasta,1996,264.0
+Shasta,1997,216.0
+Shasta,1998,309.0
+Shasta,1999,221.0
+Shasta,2000,372.0
+Shasta,2001,369.0
+Shasta,2002,341.0
+Shasta,2003,372.0
+Shasta,2004,304.0
+Shasta,2005,341.0
+Shasta,2006,388.0
+Shasta,2007,418.0
+Shasta,2008,382.0
+Shasta,2009,407.0
+Shasta,2010,413.0
+Shasta,2011,501.0
+Shasta,2012,417.0
+Shasta,2013,494.0
+Shasta,2014,482.0
+Shasta,2015,383.0
+Shasta,2016,427.0
+Shasta,2017,459.0
+Shasta,2018,451.0
+Shasta,2019,443.0
+Shasta,2020,504.0
+Shasta,2021,510.0
+Shasta,2022,414.0
+Sierra,1994,0.0
+Sierra,1995,0.0
+Sierra,1996,0.0
+Sierra,1997,5.0
+Sierra,1998,8.0
+Sierra,2000,0.0
+Sierra,2001,0.0
+Sierra,2002,0.0
+Sierra,2003,0.0
+Sierra,2004,5.0
+Sierra,2006,0.0
+Sierra,2007,5.0
+Sierra,2008,7.0
+Sierra,2009,0.0
+Sierra,2010,11.0
+Sierra,2011,0.0
+Sierra,2013,0.0
+Sierra,2014,0.0
+Sierra,2015,0.0
+Sierra,2020,0.0
+Sierra,2021,0.0
+Siskiyou,1994,64.0
+Siskiyou,1995,60.0
+Siskiyou,1996,42.0
+Siskiyou,1997,56.0
+Siskiyou,1998,53.0
+Siskiyou,1999,82.0
+Siskiyou,2000,84.0
+Siskiyou,2001,116.0
+Siskiyou,2002,76.0
+Siskiyou,2003,102.0
+Siskiyou,2004,82.0
+Siskiyou,2005,57.0
+Siskiyou,2006,51.0
+Siskiyou,2007,66.0
+Siskiyou,2008,114.0
+Siskiyou,2009,74.0
+Siskiyou,2010,99.0
+Siskiyou,2011,83.0
+Siskiyou,2012,46.0
+Siskiyou,2013,83.0
+Siskiyou,2014,57.0
+Siskiyou,2015,46.0
+Siskiyou,2016,58.0
+Siskiyou,2017,50.0
+Siskiyou,2018,99.0
+Siskiyou,2019,67.0
+Siskiyou,2020,75.0
+Siskiyou,2021,58.0
+Siskiyou,2022,53.0
+Solano,1994,828.0
+Solano,1995,876.0
+Solano,1996,924.0
+Solano,1997,1017.0
+Solano,1998,1024.0
+Solano,1999,1074.0
+Solano,2000,1162.0
+Solano,2001,1220.0
+Solano,2002,1289.0
+Solano,2003,1388.0
+Solano,2004,1366.0
+Solano,2005,1396.0
+Solano,2006,1437.0
+Solano,2007,1508.0
+Solano,2008,1533.0
+Solano,2009,1546.0
+Solano,2010,1610.0
+Solano,2011,1614.0
+Solano,2012,1663.0
+Solano,2013,1675.0
+Solano,2014,1696.0
+Solano,2015,1691.0
+Solano,2016,1764.0
+Solano,2017,1854.0
+Solano,2018,1902.0
+Solano,2019,1816.0
+Solano,2020,1784.0
+Solano,2021,1835.0
+Solano,2022,1848.0
+Sonoma,1994,1202.0
+Sonoma,1995,1273.0
+Sonoma,1996,1266.0
+Sonoma,1997,1414.0
+Sonoma,1998,1429.0
+Sonoma,1999,1647.0
+Sonoma,2000,1817.0
+Sonoma,2001,1868.0
+Sonoma,2002,1905.0
+Sonoma,2003,1909.0
+Sonoma,2004,2061.0
+Sonoma,2005,2016.0
+Sonoma,2006,2009.0
+Sonoma,2007,1980.0
+Sonoma,2008,2013.0
+Sonoma,2009,2082.0
+Sonoma,2010,2228.0
+Sonoma,2011,2070.0
+Sonoma,2012,2155.0
+Sonoma,2013,2293.0
+Sonoma,2014,2110.0
+Sonoma,2015,2295.0
+Sonoma,2016,2409.0
+Sonoma,2017,2349.0
+Sonoma,2018,2490.0
+Sonoma,2019,2308.0
+Sonoma,2020,2230.0
+Sonoma,2021,2586.0
+Sonoma,2022,2477.0
+Stanislaus,1994,573.0
+Stanislaus,1995,721.0
+Stanislaus,1996,767.0
+Stanislaus,1997,823.0
+Stanislaus,1998,835.0
+Stanislaus,1999,887.0
+Stanislaus,2000,866.0
+Stanislaus,2001,909.0
+Stanislaus,2002,1019.0
+Stanislaus,2003,943.0
+Stanislaus,2004,1018.0
+Stanislaus,2005,1139.0
+Stanislaus,2006,1160.0
+Stanislaus,2007,1177.0
+Stanislaus,2008,1101.0
+Stanislaus,2009,1382.0
+Stanislaus,2010,1390.0
+Stanislaus,2011,1359.0
+Stanislaus,2012,1567.0
+Stanislaus,2013,1956.0
+Stanislaus,2014,1751.0
+Stanislaus,2015,1847.0
+Stanislaus,2016,2006.0
+Stanislaus,2017,2080.0
+Stanislaus,2018,2209.0
+Stanislaus,2019,2096.0
+Stanislaus,2020,2238.0
+Stanislaus,2021,2528.0
+Stanislaus,2022,2381.0
+Sutter,1994,70.0
+Sutter,1995,88.0
+Sutter,1996,77.0
+Sutter,1997,64.0
+Sutter,1998,80.0
+Sutter,1999,119.0
+Sutter,2000,106.0
+Sutter,2001,103.0
+Sutter,2002,162.0
+Sutter,2003,135.0
+Sutter,2004,171.0
+Sutter,2005,138.0
+Sutter,2006,131.0
+Sutter,2007,178.0
+Sutter,2008,224.0
+Sutter,2009,238.0
+Sutter,2010,228.0
+Sutter,2011,237.0
+Sutter,2012,222.0
+Sutter,2013,268.0
+Sutter,2014,193.0
+Sutter,2015,261.0
+Sutter,2016,277.0
+Sutter,2017,299.0
+Sutter,2018,246.0
+Sutter,2019,313.0
+Sutter,2020,270.0
+Sutter,2021,348.0
+Sutter,2022,358.0
+Tehama,1994,28.0
+Tehama,1995,34.0
+Tehama,1996,57.0
+Tehama,1997,13.0
+Tehama,1998,27.0
+Tehama,1999,35.0
+Tehama,2000,51.0
+Tehama,2001,46.0
+Tehama,2002,42.0
+Tehama,2003,22.0
+Tehama,2004,42.0
+Tehama,2005,56.0
+Tehama,2006,40.0
+Tehama,2007,37.0
+Tehama,2008,61.0
+Tehama,2009,44.0
+Tehama,2010,41.0
+Tehama,2011,38.0
+Tehama,2012,55.0
+Tehama,2013,49.0
+Tehama,2014,54.0
+Tehama,2015,70.0
+Tehama,2016,45.0
+Tehama,2017,43.0
+Tehama,2018,64.0
+Tehama,2019,70.0
+Tehama,2020,60.0
+Tehama,2021,59.0
+Tehama,2022,36.0
+Trinity,1994,5.0
+Trinity,1995,14.0
+Trinity,1996,0.0
+Trinity,1997,19.0
+Trinity,1998,0.0
+Trinity,1999,5.0
+Trinity,2000,11.0
+Trinity,2001,19.0
+Trinity,2002,25.0
+Trinity,2003,18.0
+Trinity,2004,18.0
+Trinity,2005,20.0
+Trinity,2006,5.0
+Trinity,2007,21.0
+Trinity,2008,30.0
+Trinity,2009,10.0
+Trinity,2010,26.0
+Trinity,2011,25.0
+Trinity,2012,16.0
+Trinity,2013,28.0
+Trinity,2014,16.0
+Trinity,2015,7.0
+Trinity,2016,0.0
+Trinity,2017,14.0
+Trinity,2018,7.0
+Trinity,2019,0.0
+Trinity,2020,5.0
+Trinity,2021,7.0
+Trinity,2022,11.0
+Tulare,1994,610.0
+Tulare,1995,690.0
+Tulare,1996,601.0
+Tulare,1997,720.0
+Tulare,1998,797.0
+Tulare,1999,858.0
+Tulare,2000,806.0
+Tulare,2001,906.0
+Tulare,2002,920.0
+Tulare,2003,779.0
+Tulare,2004,781.0
+Tulare,2005,859.0
+Tulare,2006,803.0
+Tulare,2007,914.0
+Tulare,2008,915.0
+Tulare,2009,917.0
+Tulare,2010,1099.0
+Tulare,2011,1141.0
+Tulare,2012,1369.0
+Tulare,2013,1416.0
+Tulare,2014,1459.0
+Tulare,2015,1498.0
+Tulare,2016,1521.0
+Tulare,2017,1486.0
+Tulare,2018,1630.0
+Tulare,2019,1608.0
+Tulare,2020,1684.0
+Tulare,2021,1747.0
+Tulare,2022,1775.0
+Tuolumne,1994,98.0
+Tuolumne,1995,107.0
+Tuolumne,1996,103.0
+Tuolumne,1997,124.0
+Tuolumne,1998,110.0
+Tuolumne,1999,145.0
+Tuolumne,2000,147.0
+Tuolumne,2001,199.0
+Tuolumne,2002,182.0
+Tuolumne,2003,138.0
+Tuolumne,2004,116.0
+Tuolumne,2005,147.0
+Tuolumne,2006,157.0
+Tuolumne,2007,166.0
+Tuolumne,2008,140.0
+Tuolumne,2009,148.0
+Tuolumne,2010,145.0
+Tuolumne,2011,133.0
+Tuolumne,2012,148.0
+Tuolumne,2013,168.0
+Tuolumne,2014,146.0
+Tuolumne,2015,148.0
+Tuolumne,2016,127.0
+Tuolumne,2017,118.0
+Tuolumne,2018,140.0
+Tuolumne,2019,105.0
+Tuolumne,2020,125.0
+Tuolumne,2021,115.0
+Tuolumne,2022,103.0
+Ventura,1994,2608.0
+Ventura,1995,2938.0
+Ventura,1996,3063.0
+Ventura,1997,2980.0
+Ventura,1998,3147.0
+Ventura,1999,3215.0
+Ventura,2000,3553.0
+Ventura,2001,3811.0
+Ventura,2002,3859.0
+Ventura,2003,4247.0
+Ventura,2004,3945.0
+Ventura,2005,4087.0
+Ventura,2006,4308.0
+Ventura,2007,4595.0
+Ventura,2008,4911.0
+Ventura,2009,4901.0
+Ventura,2010,5118.0
+Ventura,2011,5373.0
+Ventura,2012,5359.0
+Ventura,2013,5624.0
+Ventura,2014,5517.0
+Ventura,2015,5440.0
+Ventura,2016,5715.0
+Ventura,2017,6091.0
+Ventura,2018,6272.0
+Ventura,2019,6283.0
+Ventura,2020,5924.0
+Ventura,2021,6834.0
+Ventura,2022,6411.0
+Yolo,1994,479.0
+Yolo,1995,508.0
+Yolo,1996,541.0
+Yolo,1997,618.0
+Yolo,1998,665.0
+Yolo,1999,751.0
+Yolo,2000,709.0
+Yolo,2001,831.0
+Yolo,2002,975.0
+Yolo,2003,916.0
+Yolo,2004,873.0
+Yolo,2005,810.0
+Yolo,2006,965.0
+Yolo,2007,1056.0
+Yolo,2008,996.0
+Yolo,2009,1067.0
+Yolo,2010,1027.0
+Yolo,2011,1094.0
+Yolo,2012,1150.0
+Yolo,2013,1313.0
+Yolo,2014,1217.0
+Yolo,2015,1238.0
+Yolo,2016,1264.0
+Yolo,2017,1275.0
+Yolo,2018,1244.0
+Yolo,2019,1259.0
+Yolo,2020,1323.0
+Yolo,2021,1428.0
+Yolo,2022,1396.0
+Yuba,1994,119.0
+Yuba,1995,121.0
+Yuba,1996,117.0
+Yuba,1997,134.0
+Yuba,1998,149.0
+Yuba,1999,111.0
+Yuba,2000,158.0
+Yuba,2001,139.0
+Yuba,2002,134.0
+Yuba,2003,191.0
+Yuba,2004,146.0
+Yuba,2005,219.0
+Yuba,2006,233.0
+Yuba,2007,244.0
+Yuba,2008,258.0
+Yuba,2009,193.0
+Yuba,2010,203.0
+Yuba,2011,177.0
+Yuba,2012,210.0
+Yuba,2013,226.0
+Yuba,2014,212.0
+Yuba,2015,221.0
+Yuba,2016,240.0
+Yuba,2017,241.0
+Yuba,2018,286.0
+Yuba,2019,282.0
+Yuba,2020,239.0
+Yuba,2021,261.0
+Yuba,2022,221.0
